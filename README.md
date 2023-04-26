@@ -17,6 +17,12 @@ PMOD pin definition:
 11. GND
 12. VCC
 
+## Version history
+
+### 2023-04-26
+
+1. Initial version.
+
 ## License
 
 Licensed under CERN-OHL-P.
