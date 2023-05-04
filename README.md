@@ -1,5 +1,11 @@
 # PMOD-SPI-NOR-FLASH
 
+![](front.png)
+
+![](back.png)
+
+![](./2023-04-26/Schematic_PMOD-SPI-NOR-FLASH_2023-04-26.png)
+
 PMOD expansion board with SPI nor flash(W25Q128JVSIQTR).
 
 PMOD pin definition:
